@@ -8,4 +8,6 @@ flask_pymongo
 dnspython
 pandas
 bson
-os
+scikit-learn
+matplotlib
+colorama
