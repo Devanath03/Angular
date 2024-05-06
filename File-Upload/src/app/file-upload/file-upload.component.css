@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background: #f7f7f7;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    min-width: 254px;
+}
+::ng-deep .mat-progress-spinner circle, .mat-spinner circle {
+    stroke: #ffffff !important;
+}

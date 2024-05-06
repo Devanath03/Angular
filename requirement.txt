@@ -1,0 +1,13 @@
+Flask
+werkzeug
+flask-session
+flask_cors
+pytz
+requests
+flask_pymongo
+dnspython
+pandas
+bson
+scikit-learn
+matplotlib
+colorama
